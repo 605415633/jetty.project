@@ -20,7 +20,7 @@
     <module>cdi-full-servlet</module>
     <module>cdi-websocket</module>
     <module>test-cdi-webapp</module>
-    <!-- deprecated
+    <!-- needs to be fixed still 
     <module>test-cdi-it</module>
      -->
   </modules>
